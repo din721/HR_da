@@ -1,4 +1,4 @@
-# HR_data_analysis
+# HR_Data_Analysis
 
 Scope of the project: 
 ---------------------
